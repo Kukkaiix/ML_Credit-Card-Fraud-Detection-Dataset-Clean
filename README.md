@@ -1,4 +1,4 @@
-# Credit Card Fraud Data Quality Pipeline & EDA
+## Credit Card Fraud Data Quality Pipeline & EDA
 
 This project implements a professional-grade data quality assessment, validation,  
 and exploratory data analysis (EDA) pipeline for credit card fraud detection datasets.
@@ -11,7 +11,7 @@ of data quality before any cleaning, feature engineering, or modeling decisions 
 
 ---
 
-## Project Files (Execution Order)
+# Project Files (Execution Order)
 
 1. **Fraud Detection_Raw.ipynb**  
    Initial data loading, schema validation, and data quality assessment
@@ -24,7 +24,7 @@ of data quality before any cleaning, feature engineering, or modeling decisions 
 
 ---
 
-## Data Source
+# Data Source
 
 Credit Card Fraud Detection Dataset (Kaggle)  
 https://www.kaggle.com/datasets/miadul/credit-card-fraud-detection-dataset
