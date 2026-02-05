@@ -6,8 +6,8 @@ The pipeline is designed following industry best practices used in financial ris
 The objective is not immediate data mutation, but to provide a transparent, auditable diagnosis of data quality before any cleaning, feature engineering, or modeling decisions are made.
 
 Three core files (in order)
-1)Fraud Detection_Raw.ipynb
-2)Fraud Detection_Data_Cleaning.ipynb
-3)Fraud Detection_Visualization.ipynb
+1)Fraud Detection_Raw.ipynb\n
+2)Fraud Detection_Data_Cleaning.ipynb\n
+3)Fraud Detection_Visualization.ipynb\n
 
 datasource: https://www.kaggle.com/datasets/miadul/credit-card-fraud-detection-dataset?resource=download
