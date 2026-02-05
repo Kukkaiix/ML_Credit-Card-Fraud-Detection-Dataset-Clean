@@ -17,7 +17,7 @@ of data quality before any cleaning, feature engineering, or modeling decisions 
    Initial data loading, schema validation, and data quality assessment
 
 2. **Fraud Detection_Data_Cleaning.ipynb**  
-   Data cleaning decisions based on audit results
+   Data cleaning decisions based on audit results with some useful EDA
 
 3. **Fraud Detection_Visualization.ipynb**  
    Exploratory data analysis and visualization
